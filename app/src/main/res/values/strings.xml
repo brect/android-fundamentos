@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Agenda</string>
+    <string name="digite_um_nome" tools:keep="@string/digite_um_nome">Digite um nome</string>
+    <string name="digite_um_telefone" tools:keep="@string/digite_um_telefone">Digite um Telefone</string>
+    <string name="digite_um_e_mail" tools:keep="@string/digite_um_e_mail">Digite um E-mail</string>
+    <string name="salvar_aluno">Salvar Aluno</string>
+    <string name="remover">Remover</string>
+    <string name="nome">nome</string>
+    <string name="telefone">telefone</string>
+    <string name="email">email</string>
+</resources>
